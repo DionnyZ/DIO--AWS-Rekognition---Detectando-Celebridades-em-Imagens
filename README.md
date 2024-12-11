@@ -4,8 +4,10 @@ O objetivo do projeto consistia em identificar a celebridade de uma imagem utili
 
 Porém, novamente, para não correr o risco de ser cobrado, adaptei o projeto para adicionar um retângulo no rosto da celebridade e seu nome, utilizando um arquivo JSON adquirido de forma legal.
 
-Com isso pude pular a etapa que utilizava o serviço AWS Rekognition. E como tentativa de compensar, ajustei o tamanho da fonte do nome.
-
 ## Imagem original
 
+<img src="./images/mercenarios.jpg" width="600">
+
 ## Resultado
+
+<img src="./images/mercenarios_recognized.jpg" width="600">
