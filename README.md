@@ -1,0 +1,1 @@
+# DIO--AWS-Rekognition---Detectando-Celebridades-em-Imagens
